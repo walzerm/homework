@@ -1,0 +1,38 @@
+body {
+	font-family: Arial;
+	margin: 40px;
+}
+.side {
+	border: solid;
+	width: 200px;
+	height: 500px;
+	float: left;
+	border-width: 1px;
+	padding-left: 10px;
+}
+.middle {
+	padding-left: 30px;
+	float: left;
+	width: 700px; 
+
+}
+.solutions {
+	margin-top: 0px;
+}
+.product {
+	border: solid;
+	border-width: 1px;
+	width: 25%;
+	padding-left: 10px;
+	padding-bottom: 30px;
+	margin-right: 40px;
+	float: left;
+}
+img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+p {
+	padding-bottom: 20px;
+}
